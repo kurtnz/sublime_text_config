@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/**
+*
+* @desc  : opens a modal window to display a message 
+* @param : string $msg - the message to be displayed 
+* @return: bool - success or failure 
+*
+*/
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>comm</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

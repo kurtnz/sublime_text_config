@@ -1,0 +1,31 @@
+{
+    "bold_folder_labels": true,
+    "draw_white_space": "all",
+    "file_exclude_patterns":
+    [
+        "._*",
+        ".DS_Store",
+        "*.bak",
+        "*.ico",
+        "*.sample",
+        "*.tar",
+        "*.tgz",
+        "*.zip"
+    ],
+    "folder_exclude_patterns":
+    [
+        ".svn"
+    ],
+    "font_size": 11.0,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage",
+        "LiveStyle",
+        "SideBarEnhancements",
+        "SFTP"
+    ],
+    "scroll_past_end": true,
+    "translate_tabs_to_spaces": true,
+    "word_wrap": true
+}
